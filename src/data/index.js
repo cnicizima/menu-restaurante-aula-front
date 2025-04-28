@@ -21,7 +21,7 @@ import pudim from '../../public/img/pudim.jpg';
 import cerveja from '../../public/img/cerveja.jpg';
 import refrigerante from '../../public/img/refrigerante.jpg';
 import suco from '../../public/img/suco.jpg';
-import whiskey from '../../public/assets/img/whiskey.jpg';
+import whiskey from '../../public/img/whiskey.jpg';
 import agua from '../../public/img/agua.jpg';
 import saladaCeasar from '../../public/img/salada-ceasar.jpg';
 import saladaCaprese from '../../public/img/salada-caprese.jpg';
